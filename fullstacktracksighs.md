@@ -1,5 +1,5 @@
 (By gpt)
-🛠 1. Planning & Project Setup
+1. Planning & Project Setup
 
 Before touching code, dev teams decide:
 
@@ -17,7 +17,7 @@ Project Management → Jira / Trello / Notion / Linear
 
 Design → Figma (UI/UX mockups)
 
-💻 2. Frontend Development
+2. Frontend Development
 
 This is the user-facing part — everything running in the browser or on the client.
 
@@ -53,7 +53,7 @@ Charts:
 
 Recharts / Chart.js / D3.js
 
-⚙ 3. Backend Development
+3. Backend Development
 
 This handles data, logic, and APIs.
 
@@ -89,7 +89,7 @@ Real-time:
 
 Socket.IO or WebSockets for live data
 
-💾 4. Database & Storage
+4. Database & Storage
 
 SQL Databases: PostgreSQL, MySQL
 
@@ -111,7 +111,7 @@ Supabase Storage
 
 Firebase Storage
 
-🔄 5. API Integration
+5. API Integration
 
 Frontend ↔ Backend communication:
 
@@ -123,7 +123,7 @@ WebSockets for live updates
 
 gRPC for high-performance APIs (less common in small projects)
 
-🚀 6. DevOps & CI/CD
+6. DevOps & CI/CD
 
 Automation for building, testing, and deploying.
 
@@ -151,7 +151,7 @@ Type Checking:
 
 TypeScript
 
-☁ 7. Deployment & Hosting
+7. Deployment & Hosting
 
 Frontend Hosting:
 
@@ -177,7 +177,7 @@ Orchestration:
 
 Kubernetes (overkill for small apps, industry standard for large)
 
-📡 8. Real-time Communication
+8. Real-time Communication
 
 For chat apps, multiplayer tools, live dashboards:
 
@@ -189,7 +189,7 @@ Pusher (managed service)
 
 Firebase Realtime Database
 
-🛡 9. Security & Optimization
+9. Security & Optimization
 
 HTTPS & Certificates:
 
@@ -215,7 +215,7 @@ Environment Variables:
 
 dotenv, never hardcode secrets
 
-📊 10. Monitoring & Analytics
+10. Monitoring & Analytics
 
 Error Tracking:
 
@@ -233,7 +233,7 @@ Google Analytics
 
 PostHog (self-hostable)
 
-🌀 Typical Full Development Cycle
+### Typical Full Development Cycle
 
 Plan → requirements, design, architecture
 
