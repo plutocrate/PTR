@@ -2,3 +2,6 @@
 ## [Computer Systems: A Programmer's Prespective](https://csapp.cs.cmu.edu)
 ## [Operating Systems: From 0 to 1 Github](https://github.com/tuhdo/os01)
 ## [Suckless](https://suckless.org/philosophy)
+## [I dont like the name of this quant playlist](https://learning.oreilly.com/playlists/8f560c02-a714-4020-85c8-ffa8aa106837/)
+## [Quant playlist by anonymous](https://learning.oreilly.com/playlists/bea64ca2-e4e3-4693-b658-c67fbae11723/)
+## [Quant and algorithmic](https://learning.oreilly.com/playlists/b6527df0-8834-41fa-8169-e8458a48e31e/)
